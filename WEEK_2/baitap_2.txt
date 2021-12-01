@@ -1,0 +1,5 @@
+- Tạo Sprite, Camera, QuaTree, Sophia, Jason.
+- Dùng map editor tạo map và load nhân vật lên.
+- Background thì chỉ cần load cả tấm ảnh lên.
+- Hoàn thành toàn bộ enemy (ko xét va chạm).
+- Sophia, Jason (ko xét va chạm).
