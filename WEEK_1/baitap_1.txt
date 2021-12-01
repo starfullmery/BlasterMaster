@@ -1,0 +1,1 @@
+Bài tập 1: Cho hình ảnh trên cửa sổ chạy xung quanh khung cửa sổ.
